@@ -5,7 +5,7 @@ The assignment involves developing a search algorithm for a robot that must navi
 
 The implementation includes two methods:
 * **Uniform Cost Search (UCS)**: Finds the cheapest path based on movement cost.
-* **A Search* with a heuristic function**: Uses an admissible heuristic to optimize the search.
+* **A\* Search with a heuristic function**: Uses an admissible heuristic to optimize the search.
 
 ---
 >GR
@@ -15,4 +15,4 @@ The implementation includes two methods:
 
 Η υλοποίηση περιλαμβάνει δύο μεθόδους:
 * **Αναζήτηση ομοιόμορφου κόστους (Uniform Cost Search - UCS)**: Βρίσκει το φθηνότερο μονοπάτι βάσει του κόστους μετακίνησης.
-* **Αναζήτηση A* με ευρετική συνάρτηση**: Χρησιμοποιεί μια αποδεκτή ευρετική για να βελτιστοποιήσει την αναζήτηση.
+* **Αναζήτηση A\* με ευρετική συνάρτηση**: Χρησιμοποιεί μια αποδεκτή ευρετική για να βελτιστοποιήσει την αναζήτηση.
